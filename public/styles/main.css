@@ -1,0 +1,53 @@
+#header-wrapper {
+	background: #192a56;
+}
+
+.text-logo,
+.text-logo:hover {
+	color: #fff;
+	font-weight: 600;
+	text-decoration: none;
+	padding: 20px 0;
+	display: block;
+}
+
+ul.nav-menu {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul.nav-menu > li > a {
+	color: #fff;
+	text-decoration: none;
+	padding: 20px;
+	display: block;
+}
+ul.nav-menu > li:hover > a {
+	background: #273c75;
+}
+
+.page-title {
+	color: #333;
+}
+
+.clock {
+	color: #333;
+	font-size: 90px;
+	font-family: Orbitron;
+	letter-spacing: 7px;
+}
+
+div#message-box {
+	font-size: 30pt;
+	font-weight: bold;
+	margin: 20px 0;
+}
+
+.attendance-link {
+	background: #c23616;
+}
+
+ul.nav-menu > li:hover > a.attendance-link {
+	background: #e84118;
+}
